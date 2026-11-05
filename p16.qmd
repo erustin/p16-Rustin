@@ -18,7 +18,7 @@ library(tokenizers)
 
 yayy yipee yahoo
 
-https://erustin.github.io/p16-Rustin/p16.html
+
 
 ```{r}
 text <- c("Once upon a time, in a land that may or may not be far away from you as you read this, a beautiful and perfect baby boy was born. 
